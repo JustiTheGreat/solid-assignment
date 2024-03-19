@@ -1,0 +1,15 @@
+C:\Users\justinian.zaharia\Desktop\gc-assignment\Assignment12\Assignment12\bin\Debug\net8.0\Assignment12.exe
+C:\Users\justinian.zaharia\Desktop\gc-assignment\Assignment12\Assignment12\bin\Debug\net8.0\Assignment12.deps.json
+C:\Users\justinian.zaharia\Desktop\gc-assignment\Assignment12\Assignment12\bin\Debug\net8.0\Assignment12.runtimeconfig.json
+C:\Users\justinian.zaharia\Desktop\gc-assignment\Assignment12\Assignment12\bin\Debug\net8.0\Assignment12.dll
+C:\Users\justinian.zaharia\Desktop\gc-assignment\Assignment12\Assignment12\bin\Debug\net8.0\Assignment12.pdb
+C:\Users\justinian.zaharia\Desktop\gc-assignment\Assignment12\Assignment12\obj\Debug\net8.0\Assignment12.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\justinian.zaharia\Desktop\gc-assignment\Assignment12\Assignment12\obj\Debug\net8.0\Assignment12.AssemblyInfoInputs.cache
+C:\Users\justinian.zaharia\Desktop\gc-assignment\Assignment12\Assignment12\obj\Debug\net8.0\Assignment12.AssemblyInfo.cs
+C:\Users\justinian.zaharia\Desktop\gc-assignment\Assignment12\Assignment12\obj\Debug\net8.0\Assignment12.csproj.CoreCompileInputs.cache
+C:\Users\justinian.zaharia\Desktop\gc-assignment\Assignment12\Assignment12\obj\Debug\net8.0\Assignment12.sourcelink.json
+C:\Users\justinian.zaharia\Desktop\gc-assignment\Assignment12\Assignment12\obj\Debug\net8.0\Assignment12.dll
+C:\Users\justinian.zaharia\Desktop\gc-assignment\Assignment12\Assignment12\obj\Debug\net8.0\refint\Assignment12.dll
+C:\Users\justinian.zaharia\Desktop\gc-assignment\Assignment12\Assignment12\obj\Debug\net8.0\Assignment12.pdb
+C:\Users\justinian.zaharia\Desktop\gc-assignment\Assignment12\Assignment12\obj\Debug\net8.0\Assignment12.genruntimeconfig.cache
+C:\Users\justinian.zaharia\Desktop\gc-assignment\Assignment12\Assignment12\obj\Debug\net8.0\ref\Assignment12.dll
